@@ -1,0 +1,10 @@
+.venv/
+.playwright-profile/
+.playwright-profile-probe/
+.playwright-github-profile/
+output/
+output_live/
+output_test/
+__pycache__/
+.pytest_cache/
+*.pyc
